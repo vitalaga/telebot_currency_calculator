@@ -1,0 +1,1 @@
+Any token can be used to use the bot. Telebot will convert the following currencies at the current rate: ruble, dollar, euro
